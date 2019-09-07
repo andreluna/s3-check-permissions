@@ -3,7 +3,6 @@
 #### Documentação de referência:
 
 * https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-configure.html
-* https://docs.aws.amazon.com/pt_br/cli/latest/userguide/cli-chap-configure.html
 * https://shellzen.net/aws-criacao-de-chaves-de-acesso-e-awscli/
 
 
@@ -13,7 +12,7 @@
 O objetivo é, com o profile verdadeiro executar a listagem de todos os buckets em sua conta 
 e com o segundo profile, que chamaremos de falso tentar enviar um arquivo TXT para o bucket.
 
-Caso a permissão do seu bucket esteja com permissão de escrita liberada, o script vai conseguir 
+Caso o seu bucket esteja com permissão de escrita liberada, o script vai conseguir 
 enviar o arquivo poc.txt para dentro do bucket.
 
 ***PROFILE_TRUTH*** é o profile do AWSCLI com a permissão para listar todos os buckets.
