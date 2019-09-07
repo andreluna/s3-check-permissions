@@ -21,10 +21,10 @@ enviar o arquivo poc.txt para dentro do bucket.
 ***PROFILE_FAKE*** é o profile que não deveria ter permissão para escrever no bucket, seu objetivo
 é simular o acesso de terceiro sem autorização.
 
-![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_001.PNG)
+![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_001.png)
 
-![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_002.PNG)
+![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_002.png)
 
-![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_003.PNG)
+![Image](https://raw.githubusercontent.com/andreluna/s3-check-permissions/master/images/s3_003.png)
 
 
